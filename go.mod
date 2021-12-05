@@ -15,13 +15,13 @@ require (
 	github.com/go-sql-driver/mysql v1.6.0
 	github.com/go-swagger/go-swagger v0.25.0
 	github.com/golang/mock v1.5.0
-	github.com/golangci/golangci-lint v1.40.1
+	github.com/golangci/golangci-lint v1.41.1
 	github.com/jessevdk/go-flags v1.4.0
 	github.com/jmoiron/sqlx v1.3.4
 	github.com/lib/pq v1.9.0
-	github.com/mattn/goveralls v0.0.9
-	github.com/powerman/appcfg v0.6.0
-	github.com/powerman/check v1.3.1
+	github.com/mattn/goveralls v0.0.11
+	github.com/powerman/appcfg v0.8.0
+	github.com/powerman/check v1.6.0
 	github.com/powerman/dockerize v0.14.0
 	github.com/powerman/getenv v0.1.0
 	github.com/powerman/goose/v2 v2.7.0
@@ -37,6 +37,7 @@ require (
 	github.com/smartystreets/goconvey v1.6.4
 	github.com/spf13/cobra v1.1.3
 	github.com/spf13/pflag v1.0.5
+	golang.org/x/crypto v0.0.0-20210220033148-5ea612d1eb83 // indirect
 	golang.org/x/net v0.0.0-20210405180319-a5a99cb37ef4
 	gotest.tools/gotestsum v1.6.4
 )
