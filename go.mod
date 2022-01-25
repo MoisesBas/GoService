@@ -14,11 +14,11 @@ require (
 	github.com/go-openapi/validate v0.19.12
 	github.com/go-sql-driver/mysql v1.6.0
 	github.com/go-swagger/go-swagger v0.25.0
-	github.com/golang/mock v1.5.0
-	github.com/golangci/golangci-lint v1.40.1
+	github.com/golang/mock v1.6.0
+	github.com/golangci/golangci-lint v1.44.0
 	github.com/jessevdk/go-flags v1.4.0
 	github.com/jmoiron/sqlx v1.3.4
-	github.com/lib/pq v1.9.0
+	github.com/lib/pq v1.10.4
 	github.com/mattn/goveralls v0.0.9
 	github.com/powerman/appcfg v0.6.0
 	github.com/powerman/check v1.3.1
@@ -35,8 +35,8 @@ require (
 	github.com/rs/cors v1.7.0
 	github.com/sebest/xff v0.0.0-20210106013422-671bd2870b3a
 	github.com/smartystreets/goconvey v1.6.4
-	github.com/spf13/cobra v1.1.3
+	github.com/spf13/cobra v1.3.0
 	github.com/spf13/pflag v1.0.5
-	golang.org/x/net v0.0.0-20210405180319-a5a99cb37ef4
+	golang.org/x/net v0.0.0-20211112202133-69e39bad7dc2
 	gotest.tools/gotestsum v1.6.4
 )
